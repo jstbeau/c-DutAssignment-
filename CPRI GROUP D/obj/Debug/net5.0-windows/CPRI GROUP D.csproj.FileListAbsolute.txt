@@ -1,0 +1,22 @@
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\CPRI GROUP D.exe
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\CPRI GROUP D.deps.json
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\CPRI GROUP D.runtimeconfig.json
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\CPRI GROUP D.runtimeconfig.dev.json
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\CPRI GROUP D.dll
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\ref\CPRI GROUP D.dll
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\bin\Debug\net5.0-windows\CPRI GROUP D.pdb
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI_GROUP_D.Form1.resources
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI_GROUP_D.Form2.resources
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.csproj.GenerateResource.cache
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.AssemblyInfoInputs.cache
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.AssemblyInfo.cs
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.dll
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\ref\CPRI GROUP D.dll
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.pdb
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.genruntimeconfig.cache
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI_GROUP_D.Form3.resources
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI_GROUP_D.Form4.resources
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI GROUP D.csprojAssemblyReference.cache
+D:\Users\User\Downloads\Visual Studio Projects\CPRI GROUP D\obj\Debug\net5.0-windows\CPRI_GROUP_D.Properties.Resources.resources
